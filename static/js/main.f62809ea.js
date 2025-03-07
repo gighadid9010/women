@@ -18384,7 +18384,7 @@
                                 children: (0,
                                 Ye.jsx)($e, {
                                     text: "JOIN OUR TELEGRAM",
-                                    link: "https://www.google.fr"
+                                    link: "https://t.me/womensdayportal"
                                 })
                             })
                         })]
