@@ -22592,7 +22592,7 @@
           , Tf = n(141)
           , Of = n(286);
         var Af = n.p + "lbank-seeklogo.e534e312784487ed2bad7322accad7e7.svg";
-        var Pf, Mf, jf, Lf, zf, Rf, If = n.p + "Pinksale_Logo_Vector.0833f57d34c7a716b1aec9addfee8a9f.svg", Nf = n(698), Df = (n(940),
+        var Pf, Mf, jf, Lf, zf, Rf, If = n.p + "Pinksale_20Logo_Vector.0833f57d34c7a716b1aec9addfee8a9f.svg", Nf = n(698), Df = (n(940),
         Ne.section(Pf || (Pf = De(["\n  min-height: 100vh;\n  width: 100vw;\n  background-color: ", ";\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n  position: relative;\n  overflow: hidden;\n\n  & > *:first-child {\n    animation-duration: 20s;\n\n    @media (max-width: 30em) {\n      animation-duration: 15s;\n    }\n  }\n  & > *:last-child {\n    animation-duration: 15s;\n\n    @media (max-width: 30em) {\n      animation-duration: 10s;\n    }\n  }\n"])), (function(e) {
             return e.theme.text
         }
