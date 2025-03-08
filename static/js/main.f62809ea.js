@@ -13923,10 +13923,10 @@
                         Ye.jsx)(Yt, {
                             children: (0,
                             Ye.jsx)("div", {
-                                className: "mobile",
+                                className: "desktop",
                                 children: (0,
                                 Ye.jsx)($e, {
-                                    text: "Connect Wallet",
+                                    text: "BUY NOW",
                                     link: "https://www.google.fr/"
                                 })
                             })
