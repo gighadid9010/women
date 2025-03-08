@@ -13927,7 +13927,7 @@
                                 children: (0,
                                 Ye.jsx)($e, {
                                     text: "BUY NOW",
-                                    link: "https://www.google.fr/"
+                                    link: "https://pump.fun/coin/Geq7qzS88ukptfXXbksMfrD1RFMJnhsyKoctANd1pump"
                                 })
                             })
                         })]
